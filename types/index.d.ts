@@ -1,4 +1,3 @@
-/// <reference types="node" />
 
 declare module "fido2-lib" {
   class Fido2Lib {
